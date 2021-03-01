@@ -1,0 +1,4 @@
+{
+  "sample.checks.test_baby_yoda_image.BabyYodaImageCheck": ["baby_yoda.check"],
+  "sample.checks.test_github_org_members.GithubOrganizationMembersCheck": ["org_members.check"]
+}
